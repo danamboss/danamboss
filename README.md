@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danamboss
-- 👀 I’m interested in Data Analytic
+- 👀 I’m interested in Data Analytics
 - 💞️ I’m looking to collaborate on Data analytics projects and all things python related.
 - 📫 How to reach me, send me an email ambosondaniel@outlook.com
 
