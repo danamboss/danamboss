@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danamboss
-- 👀 I’m interested in Data Analytics
+- 👀 I explore data using code, databases, dashboards, and spreadsheets to find the best answers and help organizations and business leaders make optimal decisions for growth based on data.
 - 💞️ I’m looking to collaborate on Data analytics projects and all things python related.
 - 📫 How to reach me, send me an email ambosondaniel@outlook.com
 
